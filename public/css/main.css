@@ -1,0 +1,52 @@
+body {
+    padding-top: 40px;
+}
+ 
+.form-signup, .form-signin {
+    width: 400px;
+    margin: 0 auto;
+}
+
+li {
+	float: right;
+}
+
+.input-block-level {
+	width: 400px;
+	height: 40px;
+	margin-bottom:5px;
+	padding-left: 10px;
+}
+
+.nav-container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #832950;
+}
+
+a {
+	color: white;
+}
+a:hover {
+	color: #C7487F;
+}
+.btn-custom {
+	color: #fff;
+	background-color: #832950;
+	border-color: #832950;
+}
+
+.btn-custom:hover {
+	color: #C7487F;
+	background-color: #dacaca;
+	border-color: #dacaca;
+}
+
+.btn-info-custom {
+	color: #fff;
+	background-color: #5bc0de;
+	border-color: #46b8da;
+	margin-right: 3px;
+}
